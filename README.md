@@ -47,7 +47,3 @@ Notes and recommendations
 - Keep `requirements.txt` pinned to specific versions to ensure reproducibility.
 - Save model checkpoints from the notebook (for example into a `models/` folder) so `app.py` can load them for inference.
 
-If you'd like, I can:
-- Update this README further with framework-specific commands (TensorFlow/Keras or PyTorch) if you tell me which one you used,
-- Extract the exact dependency versions from `Simple RNN/requirements.txt` and include them in the README, or
-- Commit additional files (example saved model, a short example input/output) if you provide them.
