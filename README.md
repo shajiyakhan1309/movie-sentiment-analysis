@@ -1,6 +1,6 @@
 # movie-sentiment-analysis
 
-This repository implements a simple movie review sentiment analysis project using a single recurrent neural network architecture: a SimpleRNN. The repo is intentionally small and focused — training and experimentation are captured in a Jupyter notebook, and a small app demonstrates inference.
+This repository implements a simple movie review sentiment analysis project using a single recurrent neural network architecture: a SimpleRNN. The repo is intentionally small and focused training and experimentation are captured in a Jupyter notebook, and a small app demonstrates inference.
 
 Project summary
 
